@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bzhmaddog
-- 👀 I’m interested in coding, woodworking, diy and many more stuff
+- 👀 I’m interested in coding, woodworking, electronics et anything diy related
 - 🌱 I’m currently learning how to build a pinball machine
 
 <!---
